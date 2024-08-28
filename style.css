@@ -1,0 +1,63 @@
+body {
+    background-image: url('background5.jpg');
+  }
+h1,h2{
+    color: lightcoral;
+}
+p{
+    text-align:center;
+    font-size: larger;
+}
+.list{
+    background-color:peachpuff;
+}
+.gallery{
+    border:1px solid lightcoral;
+}
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+header{
+    width: 100;
+    padding: 20px;
+    background-color: lightcoral; 
+}
+footer{
+    text-align: center;
+     font-size: larger;  
+}
+  .a {
+    display: inline-block;
+   
+  }
+  .login{
+    color: lightcoral;
+    font-family: cursive;
+    text-align: center;
+  }
+  input{
+    width: 20%;
+    height: 20px;
+    padding: 12px 20px;
+    display: inline-block;
+    border-radius: 10px;
+    border: 1px solid lightcoral; 
+  }
+
+  input[type=submit] {
+    width: 10%;
+    height: 30px;
+    background-color: lightcoral;
+    cursor: pointer;
+  }
+  input[type=radio]{
+    margin-left: 0%;
+  }
+  .Sign-up{
+    text-align: center;
+  }
+
+
